@@ -16,7 +16,7 @@ SECRET_KEY = 'k-bx06fb)($fk@#_g#c+^6xh=^^4$6pc!#cl14&$_hd3b_s7yb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zuri-intern-portfolio-design.herokuapp.com']
 
 
 # Application definition
